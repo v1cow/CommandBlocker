@@ -1,0 +1,5 @@
+name: CommandBlocker
+main: org.v1cow.commandblocker.CommandBlocker
+version: 1.0.0
+description: Quick CommandBlocker wrote by v1cow.
+author: v1cow

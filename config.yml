@@ -1,0 +1,7 @@
+#  CommandBlocker wrote by v1cow.
+blockmsg: '&cYou are not permitted to use this command.'
+blockedcmds:
+- '?'
+- 'pl'
+- 'plugins'
+- 'restart'
